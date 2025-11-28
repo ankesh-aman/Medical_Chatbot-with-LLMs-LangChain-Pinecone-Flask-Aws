@@ -24,3 +24,18 @@ conda activate medibot
 ```bash
 pip install -r requirements.txt
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+437639821578.dkr.ecr.eu-north-1.amazonaws.com/medicalbot
